@@ -1,0 +1,4 @@
+interface:
+  display_name: "업무 흐름·에이전트 설계 코치"
+  short_description: "업무 전 과정을 정리하고 도구·스킬·실행 환경을 결정합니다"
+  default_prompt: "$workflow-agent-design을 사용해서 내가 하는 업무를 처음부터 끝까지 정리하고, 각 단계에 맞는 도구·스킬·실행 환경을 함께 결정해 줘."
